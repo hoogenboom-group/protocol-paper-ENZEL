@@ -11,11 +11,7 @@ After installation of Odemis, they can be added to the plugins folder inside the
 
 ## IFM-Monitor
 This jupyter notebook is used to monitor fluorescence intensity during lamella milling.
-After installation of jupyter notebook, run
-```
-jupyter notebook
-```
-in the terminal, navigate to IFM-Monitor.ipynb, open it, and run the script.
+After installation of jupyter notebook, run ```jupyter notebook``` in the terminal, navigate to IFM-Monitor.ipynb, open it, and run the script.
 
 ## LamellaMillingCommands
 This iFast script is used with 3.	iFast Developer’s Kit (version 5.1.10.2037).
